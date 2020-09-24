@@ -3,7 +3,7 @@
 An Interactive Dashboard for COVID-19 Insight.
 
 ## Demo
-![Demo](assets/demo.gif)
+![Demo](asset/demo.gif)
 
 
 ### Tools required to build this. (see [requirements.txt](requirements.txt)):
