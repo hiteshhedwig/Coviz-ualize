@@ -9,7 +9,7 @@ Check Out :  [Interactive website](https://coviz-ualize.herokuapp.com/)
 ![Demo](asset/demo.gif)
 
 
-### Tools required to build this. (see [requirements.txt](requirements.txt)):
+### Tools required to build this (see [requirements.txt](requirements.txt)):
 - Plotly
 - Dash
 - Pandas
